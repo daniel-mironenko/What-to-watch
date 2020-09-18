@@ -1,6 +1,6 @@
 # What-to-watch
 
-<img src="https://github.com/daniel-mironenko/what-to-watch/blob/master/markup/img/wtw-promo.png" width="350" >
+<img src="https://github.com/daniel-mironenko/what-to-watch/blob/master/markup/img/wtw-promo.png" width="550" >
 
 ### This project includes:
 
