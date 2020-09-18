@@ -1,5 +1,7 @@
 # What-to-watch
 
+<img src="/murkup/img/wtw-promo.png" width="350" >
+
 ### This project includes:
 
 technical: HTML, CSS, JavaScript(ES6), React, Redux, React Router, TypeScript, REST API
